@@ -5,6 +5,7 @@ import java.util.Iterator;
 public class Array {
 	
 	int maxNumber = 0;
+
 	public void f1() {
 		
 		for (int i = 0; i < arr.length; i++) {
