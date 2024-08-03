@@ -5,7 +5,7 @@ import java.util.Iterator;
 
 public class Array {
 	
-	int maxNumber = 0;
+	int maxNumber = 20;
 
 	public void f1() {
 		
