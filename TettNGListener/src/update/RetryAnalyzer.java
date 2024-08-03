@@ -19,6 +19,8 @@ public class RetryAnalyzer implements IRetryAnalyzer {
 	 *
 	 */
 
+//suresh
+
 	@Override
 	public boolean retry(ITestResult result) {
 		
